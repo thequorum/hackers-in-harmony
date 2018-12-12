@@ -26,6 +26,7 @@ album:
 ```
  
 Recorded in High Availability @ Visual Studios
+
 Available at your local docker registry
 
 _This sound recording is owned by YAML_
