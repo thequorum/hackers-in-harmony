@@ -5,7 +5,7 @@ album:
   name: "Hackers in Harmony"
   artist: "The Quorum"
   produced_by: "YAML (Yet Another Music Label)"
-  recorded_in: High Availability
+  recorded_in: "High Availability"
   tracks:
   - "One Container At A Time"
   - "Baby Got RBAC"
@@ -22,7 +22,7 @@ album:
   - "The Istio Mesh Medley"
   - "Calico Scratch Fever"
   - "Some Log That I Used to Know"
-  - "thank u, next" - dedicated to CoreOS, RedHat, Heptio
+  - "thank u, next - dedicated to CoreOS, RedHat, Heptio"
 ```
  
 Recorded in High Availability @ Visual Studios
