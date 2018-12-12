@@ -1,5 +1,6 @@
-Yet Another Music Label's (YAML) Premier A Capella Group
+# Yet Another Music Label's (YAML) Premier A Capella Group
 
+```yaml
 album:
   name: "Hackers in Harmony"
   artist: "The Quorum"
@@ -22,8 +23,9 @@ album:
   - "Calico Scratch Fever"
   - "Some Log That I Used to Know"
   - "thank u, next" - dedicated to CoreOS, RedHat, Heptio
+```
  
 Recorded in High Availability @ Visual Studios
 Available at your local docker registry
 
-This sound recording is owned by YAML
+_This sound recording is owned by YAML_
